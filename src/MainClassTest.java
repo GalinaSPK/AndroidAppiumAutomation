@@ -7,5 +7,6 @@ public class MainClassTest
     {
         int num = MainClass.getLocalNumber();
         Assert.assertEquals("Проверка метода getLocalNumber провалена", 14, num);
+        System.out.println("Test successful");
     }
 }
