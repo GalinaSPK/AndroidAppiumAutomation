@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidAppiumAutomation.iml" filepath="$PROJECT_DIR$/.idea/AndroidAppiumAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaAppiumAutomation.iml" filepath="$PROJECT_DIR$/.idea/JavaAppiumAutomation.iml" />
     </modules>
   </component>
 </project>
