@@ -1,8 +1,10 @@
-import org.junit.Test;
-
 public class MainClass {
-    @Test public void getLocalNumber ()
+
+    public static int getLocalNumber ()
     {
-        System.out.println("14");
+        int x = 14;
+        System.out.println(x);
+        return x;
     }
+
 }
