@@ -1,3 +1,5 @@
+package test1;
+
 public class MainClass {
 
     public static int getLocalNumber ()
